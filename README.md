@@ -1,4 +1,4 @@
-# PrepX - Job Portal & Placement Preparation Platform
+# JobCrack - Job Portal & Placement Preparation Platform
 
 A modern, full-featured **Job Portal & Placement Preparation Platform** designed for engineering students, freshers, and experienced software professionals.
 
